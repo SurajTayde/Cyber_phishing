@@ -1,0 +1,1 @@
+https://github.com/eslint/eslint/issues/6125
